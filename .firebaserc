@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "desweb-dadb9": {
+      "hosting": {
+        "Actividad": [
+          "desweb-dadb9"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "desweb-dadb9"
+  }
+}
